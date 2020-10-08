@@ -7,3 +7,6 @@ Inspiration for the work were [Yolo](https://pjreddie.com/darknet/yolo/) and the
 - The Darknet files are in C, the network was not retrained but modified in order to show just the detection predictions for persons (so referee included), in output a txt files is used for the coordinates predictions and confidence for every frame.
 - Then software development of tracker for the same players through C++ and OpenCV library (see tirocinio.cpp) and evaluation of tracking's consistency through Matlab (see graphs.m). 
 - Finally, comparison of this approach with respect to classical algorithms, such as Mean shift.
+
+![Yolo](https://github.com/favia96/Football-Players-Detection-Tracking/blob/master/images_and_results/leftcam_det.JPG)
+![Tracking](https://github.com/favia96/Football-Players-Detection-Tracking/blob/master/images_and_results/cplusplus.JPG)
