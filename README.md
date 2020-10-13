@@ -8,5 +8,7 @@ Inspiration for the work were [Yolo](https://pjreddie.com/darknet/yolo/) and the
 - Then software development of tracker for the same players through C++ and OpenCV library (see tirocinio.cpp) and evaluation of tracking's consistency through Matlab (see graphs.m). 
 - Finally, comparison of this approach with respect to classical algorithms, such as Mean shift.
 
+See the final report in PDF of this Bachelor's thesis (unfortunatley only in Italian) for more information. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
 ![Yolo](https://github.com/favia96/Football-Players-Detection-Tracking/blob/master/images_and_results/leftcam_det.JPG)
 ![Tracking](https://github.com/favia96/Football-Players-Detection-Tracking/blob/master/images_and_results/cplusplus.JPG)
